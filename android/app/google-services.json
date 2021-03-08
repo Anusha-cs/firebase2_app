@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187799110670",
+    "project_id": "fir-1app-16a2a",
+    "storage_bucket": "fir-1app-16a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187799110670:android:f9c6deadfaaab2a8b1e85f",
+        "android_client_info": {
+          "package_name": "com.anusha.firebase2_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187799110670-gka5vleap1sip527hh7fob4taitl86ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRA6cPxyqd1NTBzi4fAwy9UD2WsgxJCPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187799110670-gka5vleap1sip527hh7fob4taitl86ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
